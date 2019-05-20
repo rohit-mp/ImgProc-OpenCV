@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 
 img = cv2.imread('family.jpg')
-face_cascade = cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')
-eye_cascade = cv2.CascadeClassifier('./haarcascade_eye.xml')
+face_cascade = cv2.CascadeClassifier('../haarcascade_frontalface_default.xml')
+eye_cascade = cv2.CascadeClassifier('../haarcascade_eye.xml')
 faces = face_cascade.detectMultiScale(img,1.3,7)
 eyes = eye_cascade.detectMultiScale(img,1.3,4)
 for (x,y,w,h) in faces:
