@@ -1,3 +1,5 @@
+## Image Blur
+
 The blur of an image is obtained in three different ways:
 - Normal blur
 - Gaussian blur
