@@ -1,8 +1,8 @@
 ## Combine Images
 
-The original images used:
-![Car](./car.jpg)
-![Logo](./logo.jpeg)
+The original images used:  
+![Car](./car.jpg)  
+![Logo](./logo.jpeg)  
 
-The combined image:
+The combined image:  
 ![Car with logo](./car-with-logo.jpg)
