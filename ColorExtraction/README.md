@@ -6,5 +6,5 @@ The original image used:
 The color Red extracted:  
 ![Extracted](./output.jpg)
 
-With further tinkering, we can obtain color retention as so:
+With further tinkering, we can obtain color retention as so:  
 ![Color retention](./output1.jpg)
