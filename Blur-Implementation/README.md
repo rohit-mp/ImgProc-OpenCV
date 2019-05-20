@@ -10,5 +10,5 @@ The original image used:
 The image obtained by Average Blur:  
 ![Average Blur](./beach-average-blur.jpg)  
 
-The iamge obtained by Gaussian Blur:
+The image obtained by Gaussian Blur:  
 ![Gaussian Blur](./beach-gaussian-blur.jpg)
